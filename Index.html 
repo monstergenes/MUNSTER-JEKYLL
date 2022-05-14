@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+       <link rel="stylesheet" href="style.css" content="text/css">
+        <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
+        <title>Hello, World!</title>
+       <link rel="video_preview.webm" href="https://drive.google.com/file/d/19GYGz6W6n_E8W3TbQQs1KHKo_82XqXae/view?usp=drivesdk">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Rubik+Glitch&display=swap" rel="stylesheet">
+    </head>
+    <body>
+        <h1>
+            JEKYLL_STATIC_PAGE
+        </h1>
+        <h2>
+            MUNSTER-KREATIONS
+        </h2>
+    </body>
+</html>

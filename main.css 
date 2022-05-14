@@ -1,0 +1,40 @@
+#background-video {
+  width: 100vw;
+  height: 100vh;
+  object-fit: cover;
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  z-index: -1;
+}
+
+
+h1, h2 {
+  color: white, red;
+  font-family: font-family: 'Rubik Glitch', cursive
+  font-weight: bold;
+  text-align: center;
+}
+
+h1 {
+  @import url('https://fonts.googleapis.com/css2?family=Rubik+Glitch+display-swap&effect=shadow-multiple|3d-float');
+  font-size: 6rem;
+  margin-top: 30vh;
+}
+
+h2 { font-size: 3rem; 
+
+@media (max-width: 750px) {
+#background-video { 
+display: none; 
+            
+        }
+body { 
+      background: url("https://drive.google.com/file/d/19GYGz6W6n_E8W3TbQQs1KHKo_82XqXae/view?usp=drivesdk") loop;
+      background-size: cover;
+    }
+}
+    
+    
